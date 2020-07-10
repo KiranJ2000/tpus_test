@@ -1,1 +1,1 @@
- *A simple test repo.*.vvvvv
+ *A simple test repo.*.
